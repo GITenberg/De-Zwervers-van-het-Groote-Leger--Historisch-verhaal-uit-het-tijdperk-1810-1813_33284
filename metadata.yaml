@@ -1,0 +1,32 @@
+_repo: De-Zwervers-van-het-Groote-Leger--Historisch-verhaal-uit-het-tijdperk-1810-1813_33284
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Geerling, Otto
+    alias: Geerling, O.
+    birthdate: 1850
+    gutenberg_agent_id: '31808'
+    url: http://www.gutenberg.org/2009/agents/31808
+covers:
+- cover_type: archival
+  image_path: 33284-h/images/cover-t.jpg
+creator:
+  author:
+    agent_name: Visser, Piet
+    gutenberg_agent_id: '36309'
+    url: http://www.gutenberg.org/2009/agents/36309
+description: ''
+gutenberg_issued: '2010-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33284'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Juvenile fiction'
+title: 'De Zwervers van het Groote Leger: Historisch verhaal uit het tijdperk 1810-1813'
+url: http://www.gutenberg.org/ebooks/33284
